@@ -1,6 +1,14 @@
 # Table of contents
 
 * [Welcome BICOPAPER](README.md)
+
+## Welcome BOTPEPE
+
+* [Quickstart](welcome-botpepe/quickstart.md)
+* [Publish your docs](welcome-botpepe/publish-your-docs.md)
+
+***
+
 * [1. Introduction](1.-introduction.md)
 * [2. Background](2.-background.md)
 * [3. Vision & Mission](3.-vision-and-mission.md)
