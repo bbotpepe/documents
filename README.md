@@ -1,6 +1,6 @@
 ---
 icon: wreath
-cover: .gitbook/assets/WhatsApp Image 2024-10-24 at 08.45.33.jpeg
+cover: .gitbook/assets/PEPE COIN POP UP 2.jpg
 coverY: 0
 layout:
   cover:
@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Welcome BICOPAPER
+# Welcome BOTPEPE
 
 **List of contents :**
 

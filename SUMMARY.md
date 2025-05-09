@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome BICOPAPER](README.md)
+* [Welcome BOTPEPE](README.md)
 
 ## Welcome BOTPEPE
 
