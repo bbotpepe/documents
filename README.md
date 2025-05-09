@@ -38,8 +38,8 @@ layout:
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="https://github.com/bbotpepe/docs/blob/main/broken-reference/README.md" %}
-[https://github.com/bbotpepe/docs/blob/main/broken-reference/README.md](https://github.com/bbotpepe/docs/blob/main/broken-reference/README.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="https://github.com/bbotpepe/docs/blob/main/broken-reference/README.md" %}
